@@ -39,3 +39,6 @@ Makefile
 !scripts/buildtests.in
 !Eigen/Core
 !Eigen/src/Core
+NuGet/README.md
+NuGet/build/native/Eigen
+*.nupkg
